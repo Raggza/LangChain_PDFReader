@@ -1,4 +1,4 @@
-# The application of Langchain in tuning a question-and-answer model for PDF content
+# Langchain_PDFReader
  
 ## Mô tả
 Ứng dụng Langchain trong việc tinh chinh model LLM sử dụng trong hỏi đáp dựa trên văn bản PDF.
